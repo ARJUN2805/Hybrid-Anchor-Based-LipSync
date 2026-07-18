@@ -2,7 +2,6 @@
 ![Librosa](https://img.shields.io/badge/Librosa-Audio%20Processing-green)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-Video%20Processing-orange)
 ![Whisper](https://img.shields.io/badge/OpenAI-Whisper-red)
-![Status](https://img.shields.io/badge/Research-M.Tech-success)
 
 # Hybrid-Anchor-Based-LipSync
 Audio-driven video retiming for multilingual lip synchronization using hybrid temporal anchors.
