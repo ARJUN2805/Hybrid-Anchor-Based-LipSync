@@ -154,13 +154,14 @@ Clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Hybrid-Anchor-Based-LipSync.git
+---
 
 Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
+---
 # ▶️ Running the Project
 
 Run the notebooks in the following order
