@@ -127,8 +127,22 @@ The proposed pipeline successfully
 - Reduces temporal mismatch
 - Produces smooth video retiming
 - Eliminates dependency on frame-by-frame comparison
-- Runs efficiently on CPU without requiring GPU-based video generation models<img width="1492" height="737" alt="alignment_plot png" src="https://github.com/user-attachments/assets/27abbcf8-0b75-4323-b9bc-a20fee3eb43b" />
-<img width="1492" height="737" alt="alignment_plot png" src="https://github.com/user-attachments/assets/ee4ff551-3e23-4af1-9f22-7a55f5925b6a" />
+- Runs efficiently on CPU without requiring GPU-based video generation models.
+
+# 📷 Sample Outputs
+
+### Long Silence Detection
+<img width="1486" height="735" alt="long_silence_detection png" src="https://github.com/user-attachments/assets/52c4ba81-d08b-457c-9084-61c6a29667dd" />
+
+
+### Syllable Boundary Detection
+<img width="1477" height="557" alt="syllable_boundary_detection png" src="https://github.com/user-attachments/assets/24f2a59b-d433-498c-b222-2a6e41e3f2f0" />
+
+
+### Timeline Alignment
+
+<img width="1492" height="737" alt="alignment_plot png" src="https://github.com/user-attachments/assets/62d7d438-9b58-4984-9ff8-7caeb597aada" />
+
 
 # ⚙️ Installation
 
