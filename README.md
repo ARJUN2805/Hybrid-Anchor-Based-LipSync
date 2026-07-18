@@ -135,11 +135,15 @@ The proposed pipeline successfully
 <img width="1486" height="735" alt="long_silence_detection png" src="https://github.com/user-attachments/assets/52c4ba81-d08b-457c-9084-61c6a29667dd" />
 
 
+
 ### Syllable Boundary Detection
+
 <img width="1477" height="557" alt="syllable_boundary_detection png" src="https://github.com/user-attachments/assets/24f2a59b-d433-498c-b222-2a6e41e3f2f0" />
 
 
+
 ### Timeline Alignment
+
 
 <img width="1492" height="737" alt="alignment_plot png" src="https://github.com/user-attachments/assets/62d7d438-9b58-4984-9ff8-7caeb597aada" />
 
@@ -183,20 +187,6 @@ This project proposes an audio-driven synchronization framework that uses tempor
 - Real-time Processing
 - GPU Acceleration
 - Automatic Video Dubbing Pipeline
-
-
-# 📄 Thesis
-
-**Title**
-
-> Dubbing Technical Videos into Indian Languages: Issues and Correction
-
-**Degree**
-
-Master of Technology (Artificial Intelligence & Data Science)
-
-Shiv Nadar University Chennai
-
 
 # 👨‍💻 Author
 
